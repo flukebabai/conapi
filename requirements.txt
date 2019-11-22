@@ -1,0 +1,9 @@
+flask
+firebase_admin
+flask-restful
+flask-cors
+tensorflow
+keras
+deepcut
+pandas
+pythainlp
